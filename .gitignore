@@ -1,0 +1,14 @@
+# Compiled class files
+bin/
+*.class
+
+# Temporary compiler artifacts
+sources.txt
+
+# IDE metadata
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
